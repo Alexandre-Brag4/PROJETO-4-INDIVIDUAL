@@ -8,6 +8,6 @@ Sim! Adicionei a entidade "Professor".
 ### Quais são os principais campos e tipos?
 matrícula_aluno, turma_id, curso_id, professor_id
 ### Como essas entidades estão relacionadas?
-- Alunos pertecem turmas ->
+- Alunos pertecem turmas -> turma contém professores
                                         
-- Alunos fazem cursos -> cursos possuí turmas -> turma contém pro
+- Alunos fazem cursos -> cursos possuí turmas -> turma contém professores
